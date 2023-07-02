@@ -1,0 +1,66 @@
+body{
+font-family: sans-serif;
+background-color: white;
+}
+
+.logo_img{
+    width: 50px;
+    padding-right: 50px;
+}
+
+.zagolovok {
+    padding-left: 100px;
+
+    color: blue;
+    position: relative;
+    bottom: 65px;
+
+    
+}
+
+.menu-item{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+ 
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.main_text {
+    color:#4CACED ;
+    font-size: 20px;
+}
+
+.main-img {
+    padding: 20px;
+    border: 1px solid blue;
+}
+
+.main_tub{
+    color:blueviolet;
+    font-size: 20px;
+    }
+
+.main_tod{
+    color:green;
+    font-size: 20px;
+    }  
+ 
+.main_tyd{
+    color:rgb(197, 35, 62);
+    font-size: 20px;
+    }  
+
+    .main_tzd{
+    color:rgb(255, 179, 2);
+    font-size: 20px;
+    }  
